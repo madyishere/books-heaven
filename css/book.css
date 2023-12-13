@@ -18,10 +18,10 @@ body{
     font-size: 3rem;
 }
 .logo{
-    margin-top: -150px;
+    /* margin-top: -150px; */
     /* border: 1px solid black; */
-    height: 400px;
-    width: 400px;
+    /* height: 400px; */
+    /* width: 400px; */
 }
 
 #search{
